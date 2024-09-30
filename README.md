@@ -1,0 +1,1 @@
+## Support regular acquisition of the external IP address of the Mi router and notify it in the form of email
